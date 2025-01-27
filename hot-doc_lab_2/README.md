@@ -20,3 +20,11 @@
 ![Screenshot](images/img_4.png)
 
 
+## Задание 1
+Запускаем:
+![Screenshot](images/img_6.png)
+
+вывод:
+![Screenshot](images/img_5.png)
+
+
